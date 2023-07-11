@@ -1,0 +1,32 @@
+.cardForm {
+    width: 250px;
+    position: relative;
+    left: 50%;
+    background: #eaeaea;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 0px 10px 10px;
+    margin-top: 100px;
+}
+
+.Button {
+    margin-top: 15px !important;
+    background-color: #6bbbd5 !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.statusMessage {
+    height: 35px;
+    position: relative;
+    top: 8px;
+    font-weight: bold;
+}
+
+.red {
+    color: red
+}
+
+.green {
+    color: green
+}
